@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RaspberyPI_Hat-rescue)(type Legacy)(uri ${KIPRJMOD}/RaspberyPI_Hat-rescue.lib)(options "")(descr ""))
+  (lib (name mylibrary)(type Legacy)(uri ${KIPRJMOD}/mylibrary.lib)(options "")(descr ""))
+)

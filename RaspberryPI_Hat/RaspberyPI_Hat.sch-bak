@@ -821,12 +821,12 @@ Wire Wire Line
 $Comp
 L mylibrary:Raspberry_PI RASP_CONN?
 U 1 1 5E353FC4
-P 9950 750
-F 0 "RASP_CONN?" H 9450 800 60  0001 C CNN
-F 1 "Raspberry_PI" H 10350 800 60  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x20" H 9900 -2750 60  0001 C CNN
-F 3 "" H 9950 750 60  0000 C CNN
-	1    9950 750 
+P 1450 4350
+F 0 "RASP_CONN?" H 950 4400 60  0001 C CNN
+F 1 "Raspberry_PI" H 1850 4400 60  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x20" H 1400 850 60  0001 C CNN
+F 3 "" H 1450 4350 60  0000 C CNN
+	1    1450 4350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
